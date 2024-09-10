@@ -1,6 +1,10 @@
 # Blockchain-Graveyard
 Publicly known blockchain incidents that include details of the breach or victim statements.
 
+<p align="center">
+  <img src="./graveyard.png" alt="Blockchain-Graveyard image" width="700">
+</p>
+
 [https://magoo.github.io/Blockchain-Graveyard/][gh]
 
 ## Contributing
